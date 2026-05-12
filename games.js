@@ -10,6 +10,11 @@ window.GAMES = [
         description: "A classic game of charades."
     },
     {
+        title: "Tic Tak Toe Arcade",
+        url: "https://mwcrox.github.io/tictaktoe/",
+        description: "Pass and Play Tic Tak Toe games."
+    },
+    {
         title: "Skull King Calculator",
         url: "https://mwcrox.github.io/Skull_King/",
         description: "Calculate your score in Skull King."
